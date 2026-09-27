@@ -8,21 +8,21 @@ A structured collection of ~200 Data Structures & Algorithms problems
 <!-- PROGRESS:START -->
 ### Arrays
 
-2 / 20
+0 / 20
 
-[██░░░░░░░░░░░░░░░░░░] 10%
+[░░░░░░░░░░░░░░░░░░░░] 0%
 
 ### Hashing
 
-1 / 15
+0 / 15
 
-[█░░░░░░░░░░░░░░░░░░░] 7%
+[░░░░░░░░░░░░░░░░░░░░] 0%
 
 ### Two Pointers
 
-1 / 15
+0 / 15
 
-[█░░░░░░░░░░░░░░░░░░░] 7%
+[░░░░░░░░░░░░░░░░░░░░] 0%
 
 ### Sliding Window
 
@@ -44,9 +44,9 @@ A structured collection of ~200 Data Structures & Algorithms problems
 
 ### Binary Search
 
-1 / 15
+0 / 15
 
-[█░░░░░░░░░░░░░░░░░░░] 7%
+[░░░░░░░░░░░░░░░░░░░░] 0%
 
 ### Linked List
 
@@ -106,9 +106,9 @@ A structured collection of ~200 Data Structures & Algorithms problems
 ## 🎯 Overall Progress
 
 <!-- OVERALL:START -->
-6 / 195 Problems
+1 / 195 Problems
 
-[█░░░░░░░░░░░░░░░░░░░] 3%
+[░░░░░░░░░░░░░░░░░░░░] 1%
 <!-- OVERALL:END -->
 
 ## 🧠 Focus
