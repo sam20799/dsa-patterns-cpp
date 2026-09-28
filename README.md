@@ -20,9 +20,9 @@ A structured collection of ~200 Data Structures & Algorithms problems
 
 ### Two Pointers
 
-0 / 15
+1 / 15
 
-[░░░░░░░░░░░░░░░░░░░░] 0%
+[█░░░░░░░░░░░░░░░░░░░] 7%
 
 ### Sliding Window
 
@@ -106,7 +106,7 @@ A structured collection of ~200 Data Structures & Algorithms problems
 ## 🎯 Overall Progress
 
 <!-- OVERALL:START -->
-1 / 195 Problems
+2 / 195 Problems
 
 [░░░░░░░░░░░░░░░░░░░░] 1%
 <!-- OVERALL:END -->
