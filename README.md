@@ -26,9 +26,9 @@ A structured collection of ~200 Data Structures & Algorithms problems
 
 ### Sliding Window
 
-2 / 15
+3 / 15
 
-[███░░░░░░░░░░░░░░░░░] 13%
+[████░░░░░░░░░░░░░░░░] 20%
 
 ### Stack
 
@@ -106,7 +106,7 @@ A structured collection of ~200 Data Structures & Algorithms problems
 ## 🎯 Overall Progress
 
 <!-- OVERALL:START -->
-3 / 195 Problems
+4 / 195 Problems
 
 [░░░░░░░░░░░░░░░░░░░░] 2%
 <!-- OVERALL:END -->
