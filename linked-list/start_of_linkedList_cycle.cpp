@@ -22,20 +22,27 @@ struct ListNode{
 
 };
 
-class Solution{
-    public:
-        bool hasCycle(ListNode *head){
-            if(head == nullptr) return false;
-            if(head->next == nullptr) return false;
-            ListNode *slow = head;
-            ListNode *fast = head;
-            while(fast!=nullptr and fast->next != nullptr){
-                slow = slow->next;
-                fast = fast->next->next;
-                if(slow == fast) return true;
+class Solution {
+public:
+    ListNode *detectCycle(ListNode *head) {
+        ListNode *slow = head;
+        ListNode *fast = head;
+
+        while(fast!=nullptr and fast->next != nullptr){
+            slow = slow->next;
+            fast = fast->next->next;
+            if(slow == fast){
+                slow = head;
+                while(slow != fast){
+                    slow = slow->next;
+                    fast = fast->next;  
+                }
+                return fast;
             }
-            return false;
+
         }
+        return nullptr;
+    }
 };
 
 
@@ -59,8 +66,9 @@ int main(){
     node5->next = node2;
 
     Solution solution;
+    ListNode *result = solution.detectCycle(head);
 
-    cout<<solution.hasCycle(head);
+    cout<<result->data;
 
     return 0;
 }
