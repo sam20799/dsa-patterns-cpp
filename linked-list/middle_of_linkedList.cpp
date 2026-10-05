@@ -1,3 +1,10 @@
+/*
+Problem: 876. Middle of the Linked List
+Platform: LeetCode
+Problem Link: https://leetcode.com/problems/middle-of-the-linked-list/description/
+Pattern: Linked List
+Difficulty: Easy
+*/
 #include<iostream>
 using namespace std;
 
