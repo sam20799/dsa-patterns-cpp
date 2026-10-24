@@ -6,11 +6,11 @@ A structured collection of ~200 Data Structures & Algorithms problems
 ## 📊 Progress
 
 <!-- PROGRESS:START -->
-### Arrays
+### Kadanes
 
-0 / 20
+1 / 20
 
-[░░░░░░░░░░░░░░░░░░░░] 0%
+[█░░░░░░░░░░░░░░░░░░░] 5%
 
 ### Hashing
 
@@ -106,7 +106,7 @@ A structured collection of ~200 Data Structures & Algorithms problems
 ## 🎯 Overall Progress
 
 <!-- OVERALL:START -->
-9 / 195 Problems
+10 / 195 Problems
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 <!-- OVERALL:END -->

@@ -34,8 +34,13 @@ public:
 };
 
 int main(){
-    int n;
-    cin>>n;
-    Solution solution;
-    cout<<solution.isHappy(n);
+    int t;
+    cin>>t;
+    while(t--){
+        int n;
+        cin>>n;
+        Solution solution;
+        cout<<solution.isHappy(n);
+        cout<<endl;
+    }
 }
