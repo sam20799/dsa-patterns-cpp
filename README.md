@@ -8,9 +8,9 @@ A structured collection of ~200 Data Structures & Algorithms problems
 <!-- PROGRESS:START -->
 ### Kadanes
 
-3 / 20
+4 / 20
 
-[███░░░░░░░░░░░░░░░░░] 15%
+[████░░░░░░░░░░░░░░░░] 20%
 
 ### Hashing
 
@@ -106,9 +106,9 @@ A structured collection of ~200 Data Structures & Algorithms problems
 ## 🎯 Overall Progress
 
 <!-- OVERALL:START -->
-12 / 195 Problems
+13 / 195 Problems
 
-[█░░░░░░░░░░░░░░░░░░░] 6%
+[█░░░░░░░░░░░░░░░░░░░] 7%
 <!-- OVERALL:END -->
 
 ## 🧠 Focus
