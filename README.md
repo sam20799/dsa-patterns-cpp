@@ -104,17 +104,17 @@ A structured collection of ~200 Data Structures & Algorithms problems
 
 ### Prefix Sum
 
-0 / 5
+1 / 5
 
-[░░░░░░░░░░░░░░░░░░░░] 0%
+[████░░░░░░░░░░░░░░░░] 20%
 <!-- PROGRESS:END -->
 
 ## 🎯 Overall Progress
 
 <!-- OVERALL:START -->
-14 / 200 Problems
+15 / 200 Problems
 
-[█░░░░░░░░░░░░░░░░░░░] 7%
+[██░░░░░░░░░░░░░░░░░░] 8%
 <!-- OVERALL:END -->
 
 ## 🧠 Focus
