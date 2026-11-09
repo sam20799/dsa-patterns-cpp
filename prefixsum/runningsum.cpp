@@ -5,6 +5,7 @@ Problem Link: https://leetcode.com/problems/running-sum-of-1d-array/description/
 Pattern: Prefix Sum
 Difficulty: Easy
 */
+
 #include <iostream>
 using namespace std;
 
