@@ -110,17 +110,17 @@ A structured collection of ~200 Data Structures & Algorithms problems
 
 ### Merge Intervals
 
-2 / 5
+3 / 5
 
-[████████░░░░░░░░░░░░] 40%
+[████████████░░░░░░░░] 60%
 <!-- PROGRESS:END -->
 
 ## 🎯 Overall Progress
 
 <!-- OVERALL:START -->
-17 / 205 Problems
+18 / 205 Problems
 
-[██░░░░░░░░░░░░░░░░░░] 8%
+[██░░░░░░░░░░░░░░░░░░] 9%
 <!-- OVERALL:END -->
 
 ## 🧠 Focus

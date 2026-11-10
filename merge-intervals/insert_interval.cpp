@@ -35,7 +35,7 @@ vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInter
 
 }
 
-// TC - O(nlogn) --> cuz use sorting 
+// TC - O(nlogn) --> cuz used sorting 
 
 vector<vector<int>> newInsert(vector<vector<int>>& intervals, vector<int>& newInterval) {
         vector<vector<int>> finalInterval;
@@ -80,5 +80,6 @@ int main(){
     for(auto x: res){
         cout<<"["<< x[0]<<","<< x[1]<< "] ";
     }
+    return 0;
 
 }
