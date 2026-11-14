@@ -32,9 +32,9 @@ A structured collection of ~200 Data Structures & Algorithms problems
 
 ### Stack
 
-4 / 10
+6 / 10
 
-[████████░░░░░░░░░░░░] 40%
+[████████████░░░░░░░░] 60%
 
 ### Queue & Deque
 
@@ -118,9 +118,9 @@ A structured collection of ~200 Data Structures & Algorithms problems
 ## 🎯 Overall Progress
 
 <!-- OVERALL:START -->
-24 / 205 Problems
+26 / 205 Problems
 
-[██░░░░░░░░░░░░░░░░░░] 12%
+[███░░░░░░░░░░░░░░░░░] 13%
 <!-- OVERALL:END -->
 
 ## 🧠 Focus
