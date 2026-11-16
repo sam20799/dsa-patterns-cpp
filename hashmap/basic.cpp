@@ -35,4 +35,5 @@ int main(){
     }
     cout<<endl;
     cout<<f.size();
+    
 }

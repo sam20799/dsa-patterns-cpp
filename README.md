@@ -14,9 +14,9 @@ A structured collection of ~200 Data Structures & Algorithms problems
 
 ### Hashmap
 
-2 / 15
+3 / 15
 
-[███░░░░░░░░░░░░░░░░░] 13%
+[████░░░░░░░░░░░░░░░░] 20%
 
 ### Two Pointers
 
@@ -118,9 +118,9 @@ A structured collection of ~200 Data Structures & Algorithms problems
 ## 🎯 Overall Progress
 
 <!-- OVERALL:START -->
-29 / 205 Problems
+30 / 205 Problems
 
-[███░░░░░░░░░░░░░░░░░] 14%
+[███░░░░░░░░░░░░░░░░░] 15%
 <!-- OVERALL:END -->
 
 ## 🧠 Focus
