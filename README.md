@@ -50,9 +50,9 @@ A structured collection of ~200 Data Structures & Algorithms problems
 
 ### Linked List
 
-6 / 10
+7 / 10
 
-[████████████░░░░░░░░] 60%
+[██████████████░░░░░░] 70%
 
 ### Recursion & Backtracking
 
@@ -118,9 +118,9 @@ A structured collection of ~200 Data Structures & Algorithms problems
 ## 🎯 Overall Progress
 
 <!-- OVERALL:START -->
-33 / 205 Problems
+34 / 205 Problems
 
-[███░░░░░░░░░░░░░░░░░] 16%
+[███░░░░░░░░░░░░░░░░░] 17%
 <!-- OVERALL:END -->
 
 ## 🧠 Focus
