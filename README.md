@@ -44,9 +44,9 @@ A structured collection of ~200 Data Structures & Algorithms problems
 
 ### Binary Search
 
-4 / 15
+5 / 15
 
-[█████░░░░░░░░░░░░░░░] 27%
+[███████░░░░░░░░░░░░░] 33%
 
 ### Linked List
 
@@ -118,7 +118,7 @@ A structured collection of ~200 Data Structures & Algorithms problems
 ## 🎯 Overall Progress
 
 <!-- OVERALL:START -->
-40 / 205 Problems
+41 / 205 Problems
 
 [████░░░░░░░░░░░░░░░░] 20%
 <!-- OVERALL:END -->
