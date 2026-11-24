@@ -24,6 +24,9 @@ int peakIndexInMountainArray(vector<int>& arr){
     return res;
 }
 
+//arr[mid]<arr[mid+1] ->climbing, 
+//arr[mid]>arr[mid+1]-> descending (a possible ans) find first occurance
+
 int main(){
     vector<int> arr = {0, 2, 1, 0};
     cout<<peakIndexInMountainArray(arr);
